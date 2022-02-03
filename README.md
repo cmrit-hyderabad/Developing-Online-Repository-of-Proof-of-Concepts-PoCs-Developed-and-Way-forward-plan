@@ -10,3 +10,10 @@ TRL).<br>
 * Once a team submits PoC, respective IIC-Institutes need to evaluate PoCs
 based on the evaluation criteria provided to IIC-Institute and need to
 list/upgrade them on the IIC portal as per provision on the IIC portal<br>
+
+
+# Steps to submit Idea
+## Step 1 : fork the repository
+## step 2 : create your Folder with your PoCs
+## stpe 3 : upload Your PoCs and commit changes
+## step 4 : create a pull request
