@@ -15,3 +15,5 @@ based on the evaluation criteria provided to IIC-Institute
 ## step 2 : create your Folder with your PoCs
 ## stpe 3 : upload Your [PoCs](https://github.com/cmrit-hyderabad/Developing-Online-Repository-of-Proof-of-Concepts-PoCs-Developed-and-Way-forward-plan/blob/main/Idea-or-Proof-of-Concept-Submisson-Format.pdf) and commit changes
 ## step 4 : create a pull request
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/drive/u/0/folders/19Um-Cdvx6vaJTVMK_3Cd2gOyC9yBCT0Z)
